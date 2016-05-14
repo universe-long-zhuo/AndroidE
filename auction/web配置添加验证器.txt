@@ -1,0 +1,9 @@
+<!-- ÑéÖ¤Æ÷ -->
+	<servlet>
+        <servlet-name>authImg</servlet-name>
+        <servlet-class>org.crazyit.auction.web.AuthImg</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>authImg</servlet-name>
+        <url-pattern>/auth.jpg</url-pattern>
+    </servlet-mapping>
