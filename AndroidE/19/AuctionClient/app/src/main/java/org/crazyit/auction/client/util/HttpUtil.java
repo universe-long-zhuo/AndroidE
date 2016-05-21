@@ -20,7 +20,7 @@ public class HttpUtil
 	// 创建HttpClient对象
 	public static HttpClient httpClient = new DefaultHttpClient();
 	public static final String BASE_URL =
-			"http://192.168.0.108:8080/android/";
+			"http://192.168.0.109:8080/android/";
 	/**
 	 *
 	 * @param url 发送请求的URL
